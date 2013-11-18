@@ -1,0 +1,20 @@
+<div data-role="page">
+<h1><%=@accounts.person['Account Name'][0]%>
+  <div data-role="header" data-position="inline">
+
+    <a href="<%= url_for :action => :index %>"  class="ui-btn-left" data-icon="back" data-direction="reverse" <%= "data-ajax='false'" if is_bb6 %>>
+      Back
+    </a>
+   
+  </div>
+
+  <div data-role="content">
+  
+  <%@accounts.person.each do |key, value|%>
+     <div> <%=key%></di>:<div><%=value[0]%></di>       
+      
+    <% end %>
+  
+   </div>
+
+</div>

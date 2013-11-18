@@ -1,0 +1,437 @@
+I 08/23/2013 19:58:24:856 00001520              RhoRuby| require_compiled: rhoframework
+I 08/23/2013 19:58:24:857 00001520              RhoRuby| require_compiled: rational
+I 08/23/2013 19:58:24:858 00001520              RhoRuby| require_compiled: rhom/rhom_db_adapter
+I 08/23/2013 19:58:24:860 00001520              RhoRuby| require_compiled: rhodes
+I 08/23/2013 19:58:24:861 00001520              RhoRuby| require_compiled: rhom/rhom_object
+I 08/23/2013 19:58:24:862 00001520              RhoRuby| require_compiled: rhofsconnector
+I 08/23/2013 19:58:24:863 00001520              RhoRuby| require_compiled: rho/rhofsconnector
+I 08/23/2013 19:58:24:864 00001520              RhoRuby| require_compiled: rhom/rhom_object_factory
+I 08/23/2013 19:58:24:881 00001520              RhoRuby| require_compiled: rhom/rhom
+I 08/23/2013 19:58:24:884 00001520              RhoRuby| require_compiled: rhom/rhom_model
+I 08/23/2013 19:58:24:886 00001520              RhoRuby| require_compiled: rhom
+I 08/23/2013 19:58:24:887 00001520              RhoRuby| require_compiled: rho/rhoapplication
+I 08/23/2013 19:58:24:890 00001520              RhoRuby| require_compiled: rholang/localization_simplified
+I 08/23/2013 19:58:24:892 00001520              RhoRuby| require_compiled: rho/rhomsg
+I 08/23/2013 19:58:24:893 00001520              RhoRuby| require_compiled: rho/rhotabbar
+I 08/23/2013 19:58:24:894 00001520              RhoRuby| require_compiled: rho/rhotoolbar
+I 08/23/2013 19:58:24:895 00001520                  APP| Current locale: ; Country code: 
+I 08/23/2013 19:58:24:895 00001520                  APP| Locilized file: C:/MotorolaRhoMobileSuite2.2.1.13/ruby/lib/ruby/gems/1.9.1/gems/rhodes-3.5.1.13/lib/framework/rholang/lang_
+I 08/23/2013 19:58:24:895 00001520              RhoRuby| require_compiled: C:/MotorolaRhoMobileSuite2.2.1.13/ruby/lib/ruby/gems/1.9.1/gems/rhodes-3.5.1.13/lib/framework/rholang/lang_en
+I 08/23/2013 19:58:24:897 00001520                  APP| Locilized file: C:/Users/surendran/workspace/RHO/SalesApp/app/lang/lang_
+I 08/23/2013 19:58:24:897 00001520                  APP| Locilized file: C:/MotorolaRhoMobileSuite2.2.1.13/ruby/lib/ruby/gems/1.9.1/gems/rhodes-3.5.1.13/lib/framework/rholang/rhoerror_
+I 08/23/2013 19:58:24:898 00001520              RhoRuby| require_compiled: C:/MotorolaRhoMobileSuite2.2.1.13/ruby/lib/ruby/gems/1.9.1/gems/rhodes-3.5.1.13/lib/framework/rholang/rhoerror_en
+I 08/23/2013 19:58:24:899 00001520                  APP| Locilized file: C:/MotorolaRhoMobileSuite2.2.1.13/ruby/lib/ruby/gems/1.9.1/gems/rhodes-3.5.1.13/lib/framework/rholang/rhomsg_
+I 08/23/2013 19:58:24:899 00001520              RhoRuby| require_compiled: C:/MotorolaRhoMobileSuite2.2.1.13/ruby/lib/ruby/gems/1.9.1/gems/rhodes-3.5.1.13/lib/framework/rholang/rhomsg_en
+I 08/23/2013 19:58:24:900 00001520              RhoRuby| require_compiled: indifferent_access
+I 08/23/2013 19:58:24:902 00001520              RhoRuby| require_compiled: rho/rhosupport
+I 08/23/2013 19:58:24:904 00001520              RhoRuby| require_compiled: rho/rhocontroller
+I 08/23/2013 19:58:24:906 00001520              RhoRuby| require_compiled: rho/render
+I 08/23/2013 19:58:24:910 00001520              RhoRuby| require_compiled: rho/rho
+I 08/23/2013 19:58:24:923 00001520              RhoRuby| require_compiled: rho/rhoerror
+I 08/23/2013 19:58:24:924 00001520              RhoRuby| require_compiled: rhom/rhom_source
+E 08/23/2013 19:58:24:925 00001520              RhoRuby| require_compiled: error: can not find rhodes_translator
+I 08/23/2013 19:58:24:926 00001520              RhoRuby| require_compiled: rho/rhoviewhelpers
+I 08/23/2013 19:58:24:928 00001520              RhoRuby| require_compiled: rho
+I 08/23/2013 19:58:24:929 00001520              RhoRuby| require_compiled: debugger
+I 08/23/2013 19:58:24:934 00001520              RhoRuby| require_compiled: uri
+I 08/23/2013 19:58:24:935 00001520              RhoRuby| require_compiled: uri/common
+I 08/23/2013 19:58:24:943 00001520              RhoRuby| require_compiled: uri/generic
+I 08/23/2013 19:58:24:952 00001520              RhoRuby| require_compiled: uri/ftp
+I 08/23/2013 19:58:24:955 00001520              RhoRuby| require_compiled: uri/http
+I 08/23/2013 19:58:24:956 00001520              RhoRuby| require_compiled: uri/https
+I 08/23/2013 19:58:24:957 00001520              RhoRuby| require_compiled: uri/ldap
+I 08/23/2013 19:58:24:958 00001520              RhoRuby| require_compiled: uri/ldaps
+I 08/23/2013 19:58:24:959 00001520              RhoRuby| require_compiled: uri/mailto
+I 08/23/2013 19:58:24:961 00001520              RhoRuby| require_compiled: timeout
+I 08/23/2013 19:58:26:011 00001520                  APP| [Debugger] Unable to open connection to debugger: #<Errno::ECONNREFUSED: No connection could be made because the target machine actively refused it. - connect(2)>
+I 08/23/2013 19:58:26:011 00001520                  APP| RHO loaded
+I 08/23/2013 19:58:26:011 00001520                  APP| Calling RHO.initialize
+I 08/23/2013 19:58:26:012 00001520              RhoRuby| require_compiled: rhoappmanifest
+I 08/23/2013 19:58:26:014 00001520              RhoRuby| require_compiled: find
+I 08/23/2013 19:58:26:031 00001520                  APP| model file: Accounts/accounts
+I 08/23/2013 19:58:26:031 00001520                   DB| Open DB: C:/Users/surendran/workspace/RHO/SalesApp/rhosimulator/db/syncdbuser.sqlite
+I 08/23/2013 19:58:26:033 00001520          GeoLocation| Creating singleton instance.
+I 08/23/2013 19:58:26:033 00001520            RhodesApp| Starting sync engine...
+I 08/23/2013 19:58:26:033 00001520                 Sync| sync_poll_interval: 0
+I 08/23/2013 19:58:26:033 00001520                 Sync| syncserver: 
+I 08/23/2013 19:58:26:033 00001520                 Sync| bulksync_state: 0
+I 08/23/2013 19:58:26:033 00001520            RhodesApp| RhoRubyInitApp...
+I 08/23/2013 19:58:26:033 00001520                  APP| init_app
+I 08/23/2013 19:58:26:033 00001520              RhoRuby| require_compiled: application
+I 08/23/2013 19:58:26:034 00001520                 Sync| Set notification. Source ID: -1;Url :http://127.0.0.1:50345/app/Settings/sync_notify; Params: 
+I 08/23/2013 19:58:26:034 00001520           HttpServer| Start HTTP server
+I 08/23/2013 19:58:26:035 00001520           HttpServer| Listen for connections on port 50345
+I 08/23/2013 19:58:26:035 00001520         AppCallbacks| addCommand: LOCAL-SERVER-STARTED
+I 08/23/2013 19:58:26:035 00001694         AppCallbacks| process command: LOCAL-SERVER-STARTED
+I 08/23/2013 19:58:26:035 00001694  SystemImpl.cpp: 829| rho_sys_report_app_started() has no implementation on Win Mobile.
+I 08/23/2013 19:58:26:035 00001694         AppCallbacks| process command: UI-CREATED
+I 08/23/2013 19:58:26:035 00001694                  Net| Method: GET;Url: http://127.0.0.1:50345/system/uicreated
+I 08/23/2013 19:58:26:071 00001520           HttpServer| Process URI: '/system/uicreated'
+I 08/23/2013 19:58:26:071 00001520                  APP| on_ui_created.navigate to start url: '/app'
+I 08/23/2013 19:58:26:071 000003c8           MainWindow| navigate: 'http://127.0.0.1:50345/app'
+I 08/23/2013 19:58:26:071 000003c8         QtMainWindow| WebView: loading...
+I 08/23/2013 19:58:26:072 00001694         AppCallbacks| process command: APP-ACTIVATED
+I 08/23/2013 19:58:26:072 00001694                  Net| Method: GET;Url: http://127.0.0.1:50345/system/activateapp
+I 08/23/2013 19:58:26:072 00001520           HttpServer| Process URI: '/system/activateapp'
+I 08/23/2013 19:58:26:073 00001520           HttpServer| Process URI: '/app'
+I 08/23/2013 19:58:26:073 00001694         AppCallbacks| ThreadQueue blocked for 4294967295 seconds...
+I 08/23/2013 19:58:26:084 00001520           HttpServer| Process URI: '/app/index.erb'
+I 08/23/2013 19:58:26:085 00001520                  APP| RHO serve_index: /app/index.erb
+I 08/23/2013 19:58:26:085 00001520 RHO Rho::RhoController| inst_render_index
+I 08/23/2013 19:58:26:085 00001520              RhoRuby| require_compiled: erb
+I 08/23/2013 19:58:26:091 00001520                  APP| eval_compiled_file : C:/Users/surendran/workspace/RHO/SalesApp/app/index.erb
+I 08/23/2013 19:58:26:092 00001520 RHO Rho::RhoController| index layout
+I 08/23/2013 19:58:26:092 00001520                  APP| eval_compiled_file : C:/Users/surendran/workspace/RHO/SalesApp/app/layout.erb
+I 08/23/2013 19:58:26:094 000003c8           MainWindow| addToolbarButton: Label: '';Action: 'back'
+I 08/23/2013 19:58:26:094 00001520           HttpServer| GC Start.
+I 08/23/2013 19:58:26:094 000003c8           MainWindow| addToolbarButton: Label: '';Action: 'separator'
+I 08/23/2013 19:58:26:094 000003c8           MainWindow| addToolbarButton: Label: '';Action: 'home'
+I 08/23/2013 19:58:26:094 000003c8           MainWindow| addToolbarButton: Label: '';Action: 'refresh'
+I 08/23/2013 19:58:26:094 000003c8           MainWindow| addToolbarButton: Label: '';Action: 'options'
+I 08/23/2013 19:58:26:096 00001520           HttpServer| GC End.
+I 08/23/2013 19:58:26:096 000003c8         QtMainWindow| WebView: URL changed
+I 08/23/2013 19:58:26:156 00001520           HttpServer| Process URI: '/public/jquery/jquery-1.6.4.min.js'
+I 08/23/2013 19:58:26:162 00001520           HttpServer| Process URI: '/public/jquery/jquery.json-2.3.min.js'
+I 08/23/2013 19:58:26:163 00001520           HttpServer| Process URI: '/public/jqmobile/jquery.mobile-1.0.1.min.css'
+I 08/23/2013 19:58:26:164 00001520           HttpServer| Process URI: '/public/css/jqmobile-patch.css'
+I 08/23/2013 19:58:26:165 00001520           HttpServer| Process URI: '/public/jqmobile/jquery.mobile-1.0.1.min.js'
+I 08/23/2013 19:58:26:203 00001520           HttpServer| Process URI: '/public/js/jqmobile-patch.js'
+I 08/23/2013 19:58:26:204 00001520           HttpServer| Process URI: '/public/css/android.css'
+I 08/23/2013 19:58:26:289 00001520           HttpServer| Process URI: '/public/jqmobile/images/icons-18-white.png'
+I 08/23/2013 19:58:26:310 00001520           HttpServer| Process URI: '/favicon.ico'
+E 08/23/2013 19:58:26:311 00001520           HttpServer| The file /favicon.ico was not found
+I 08/23/2013 19:58:26:312 000003c8         QtMainWindow| Page load complete.
+I 08/23/2013 19:58:26:670 00001520           HttpServer| Process URI: '/favicon.ico'
+E 08/23/2013 19:58:26:671 00001520           HttpServer| The file /favicon.ico was not found
+I 08/23/2013 19:58:27:390 00001520           HttpServer| Process URI: '/app/Accounts'
+I 08/23/2013 19:58:27:390 00001520                  APP| RHO serve: /app/Accounts
+I 08/23/2013 19:58:27:390 00001520              RhoRuby| require_compiled: Accounts/accounts_controller
+I 08/23/2013 19:58:27:391 00001520              RhoRuby| require_compiled: helpers/browser_helper
+I 08/23/2013 19:58:27:392 00001520              RhoRuby| require_compiled: json
+I 08/23/2013 19:58:27:393 00001520              RhoRuby| require_compiled: json/common
+I 08/23/2013 19:58:27:395 00001520              RhoRuby| require_compiled: json/version
+I 08/23/2013 19:58:27:396 00001520              RhoRuby| require_compiled: json/pure
+I 08/23/2013 19:58:27:397 00001520              RhoRuby| require_compiled: json/pure/generator
+I 08/23/2013 19:58:27:400 00001520              RhoRuby| require_compiled: ostruct
+I 08/23/2013 19:58:27:401 00001520              RhoRuby| require_compiled: Accounts/account
+I 08/23/2013 19:58:27:402 00001520            AsyncHttp| addCommand: POST
+I 08/23/2013 19:58:27:402 00001520                  APP| eval_compiled_file : C:/Users/surendran/workspace/RHO/SalesApp/app/Accounts/wait.erb
+I 08/23/2013 19:58:27:411 000003c8         QtMainWindow| WebView: URL changed
+I 08/23/2013 19:58:27:417 00001520           HttpServer| GC Start.
+I 08/23/2013 19:58:27:418 00001520           HttpServer| GC End.
+I 08/23/2013 19:58:27:419 000011e8            AsyncHttp| Starting main routine...
+I 08/23/2013 19:58:27:419 000011e8                  Net| Method: POST;Url: https://crm.zoho.com/crm/private/json/Accounts/getMyRecords?authtoken=9a31377e091161d17cab934c1f041f95&scope=crmapi
+I 08/23/2013 19:58:29:135 000011e8                  Net| Method: POST;Url: http://127.0.0.1:50345/app/Accounts/httpget_callback
+I 08/23/2013 19:58:29:136 00001520           HttpServer| Process URI: '/app/Accounts/httpget_callback'
+I 08/23/2013 19:58:29:137 00001520                  APP| RHO serve: /app/Accounts/httpget_callback
+I 08/23/2013 19:58:29:138 00001520                  APP| Params: {"rho_callback"=>"1", "status"=>"ok", "http_error"=>"200", "cookies"=>"bba2ee81f8=7b66fea78811cdeaaf282c9ec2ef1b93;Path=/;JSESSIONID=818C642FADEEB6FC9EB2498C5A4E0597;Path=/crm;crmcsr=a14e0299-d59c-4343-8644-5b926fd02d60;Path=/;", "headers"=>{"cache-control"=>"no-cache", "connection"=>"keep-alive", "content-length"=>"2697", "content-type"=>"application/jsonp;charset=utf-8", "date"=>"Fri, 23 Aug 2013 14:28:20 GMT", "expires"=>"Thu, 01 Jan 1970 00:00:00 GMT", "pragma"=>"no-cache", "server"=>"ZGS", "set-cookie"=>"crmcsr=a14e0299-d59c-4343-8644-5b926fd02d60; Path=/; Secure;JSESSIONID=818C642FADEEB6FC9EB2498C5A4E0597; Path=/crm;bba2ee81f8=7b66fea78811cdeaaf282c9ec2ef1b93; Path=/", "strict-transport-security"=>"max-age=432000", "x-content-type-options"=>"nosniff", "x-download-options"=>"noopen"}, "__rho_object"=>{"body"=>"0"}}
+I 08/23/2013 19:58:29:138 00001520                  APP| Length :  {"ACCOUNTID"=>["935918000000067001"], "SMOWNERID"=>["935918000000064001"], "Account Owner"=>["surendran"], "Account Name"=>["Zillum"], "Fax"=>["99999999"], "Website"=>["www.zillum.com"], "Account Number"=>["0"], "Ownership"=>["Private"], "Industry"=>["Real estate"], "Employees"=>["200"], "Annual Revenue"=>["20000000"], "SIC Code"=>["0"], "SMCREATORID"=>["935918000000064001"], "Created By"=>["surendran"], "MODIFIEDBY"=>["935918000000064001"], "Modified By"=>["surendran"], "Created Time"=>["2013-08-23 06:56:19"], "Modified Time"=>["2013-08-23 06:56:19"], "Last Activity Time"=>["2013-08-23 06:56:19"]}
+I 08/23/2013 19:58:29:139 00001520                  APP| Length :  {"ACCOUNTID"=>["935918000000066028"], "SMOWNERID"=>["935918000000064001"], "Account Owner"=>["surendran"], "Rating"=>["Acquired"], "Account Name"=>["Raja"], "Account Number"=>["1234566"], "Account Type"=>["Competitor"], "Ownership"=>["Private"], "Industry"=>["Data/Telecom OEM"], "Employees"=>["0"], "Annual Revenue"=>["0"], "SIC Code"=>["0"], "SMCREATORID"=>["935918000000064001"], "Created By"=>["surendran"], "MODIFIEDBY"=>["935918000000064001"], "Modified By"=>["surendran"], "Created Time"=>["2013-08-22 22:24:02"], "Modified Time"=>["2013-08-22 22:24:02"], "Last Activity Time"=>["2013-08-22 22:24:02"]}
+I 08/23/2013 19:58:29:139 00001520                  APP| Length :  {"ACCOUNTID"=>["935918000000066005"], "SMOWNERID"=>["935918000000064001"], "Account Owner"=>["surendran"], "Account Name"=>["Surendran"], "Phone"=>["9629692904"], "Website"=>["www.surednranmca.blogspot.com"], "Account Number"=>["0"], "Employees"=>["0"], "Annual Revenue"=>["0"], "SIC Code"=>["0"], "SMCREATORID"=>["935918000000064001"], "Created By"=>["surendran"], "MODIFIEDBY"=>["935918000000064001"], "Modified By"=>["surendran"], "Created Time"=>["2013-08-22 06:22:04"], "Modified Time"=>["2013-08-22 06:22:04"], "Last Activity Time"=>["2013-08-22 06:22:04"]}
+I 08/23/2013 19:58:29:139 000003c8           MainWindow| navigate: 'http://127.0.0.1:50345/app/Accounts/show_result'
+I 08/23/2013 19:58:29:139 00001520           HttpServer| GC Start.
+I 08/23/2013 19:58:29:139 000003c8         QtMainWindow| WebView: loading...
+I 08/23/2013 19:58:29:140 000011e8            AsyncHttp| ThreadQueue blocked for 4294967295 seconds...
+I 08/23/2013 19:58:29:141 00001520           HttpServer| GC End.
+I 08/23/2013 19:58:29:141 00001520           HttpServer| Process URI: '/app/Accounts/show_result'
+I 08/23/2013 19:58:29:142 00001520                  APP| RHO serve: /app/Accounts/show_result
+I 08/23/2013 19:58:29:142 00001520                  APP| eval_compiled_file : C:/Users/surendran/workspace/RHO/SalesApp/app/Accounts/index.erb
+I 08/23/2013 19:58:29:144 00001520                  APP| eval_compiled_file : C:/Users/surendran/workspace/RHO/SalesApp/app/layout.erb
+I 08/23/2013 19:58:29:146 00001520 RHO AccountsController| Layout file: C:/Users/surendran/workspace/RHO/SalesApp/app/layout.erb. Content size: 3440
+I 08/23/2013 19:58:29:147 00001520           HttpServer| GC Start.
+I 08/23/2013 19:58:29:148 000003c8         QtMainWindow| WebView: URL changed
+I 08/23/2013 19:58:29:149 00001520           HttpServer| GC End.
+I 08/23/2013 19:58:29:249 000003c8         QtMainWindow| Page load complete.
+I 08/23/2013 19:58:30:386 00001520           HttpServer| Process URI: '/app/Accounts/add'
+I 08/23/2013 19:58:30:387 00001520                  APP| RHO serve: /app/Accounts/add
+I 08/23/2013 19:58:30:388 00001520                  APP| eval_compiled_file : C:/Users/surendran/workspace/RHO/SalesApp/app/Accounts/add.erb
+I 08/23/2013 19:58:30:389 00001520           HttpServer| GC Start.
+I 08/23/2013 19:58:30:391 00001520           HttpServer| GC End.
+I 08/23/2013 19:58:30:415 000003c8         QtMainWindow| WebView: URL changed
+I 08/23/2013 19:58:34:061 00001520           HttpServer| Process URI: '/app/Accounts'
+I 08/23/2013 19:58:34:062 00001520                  APP| RHO serve: /app/Accounts
+I 08/23/2013 19:58:34:062 00001520                  APP| Params: {"id"=>"", "name"=>"ewrewtretewtewrt", "account"=>{"brand"=>"", "price"=>"", "quantity"=>""}}
+I 08/23/2013 19:58:34:063 00001520           HttpServer| GC Start.
+I 08/23/2013 19:58:34:065 00001520           HttpServer| GC End.
+I 08/23/2013 19:58:34:079 000003c8         QtMainWindow| WebView: URL changed
+13 19:55:06:394 00000f84           MainWindow| addToolbarButton: Label: '';Action: 'back'
+I 08/23/2013 19:55:06:395 000015d4           HttpServer| GC Start.
+I 08/23/2013 19:55:06:395 00000f84           MainWindow| addToolbarButton: Label: '';Action: 'separator'
+I 08/23/2013 19:55:06:395 00000f84           MainWindow| addToolbarButton: Label: '';Action: 'home'
+I 08/23/2013 19:55:06:395 00000f84           MainWindow| addToolbarButton: Label: '';Action: 'refresh'
+I 08/23/2013 19:55:06:395 00000f84           MainWindow| addToolbarButton: Label: '';Action: 'options'
+I 08/23/2013 19:55:06:396 000015d4           HttpServer| GC End.
+I 08/23/2013 19:55:06:396 00000f84         QtMainWindow| WebView: URL changed
+I 08/23/2013 19:55:06:450 000015d4           HttpServer| Process URI: '/public/jquery/jquery-1.6.4.min.js'
+I 08/23/2013 19:55:06:452 000015d4           HttpServer| Process URI: '/public/jquery/jquery.json-2.3.min.js'
+I 08/23/2013 19:55:06:454 000015d4           HttpServer| Process URI: '/public/jqmobile/jquery.mobile-1.0.1.min.css'
+I 08/23/2013 19:55:06:454 000015d4           HttpServer| Process URI: '/public/css/jqmobile-patch.css'
+I 08/23/2013 19:55:06:455 000015d4           HttpServer| Process URI: '/public/jqmobile/jquery.mobile-1.0.1.min.js'
+I 08/23/2013 19:55:06:490 000015d4           HttpServer| Process URI: '/public/js/jqmobile-patch.js'
+I 08/23/2013 19:55:06:492 000015d4           HttpServer| Process URI: '/public/css/android.css'
+I 08/23/2013 19:55:06:576 000015d4           HttpServer| Process URI: '/public/jqmobile/images/icons-18-white.png'
+I 08/23/2013 19:55:06:601 000015d4           HttpServer| Process URI: '/favicon.ico'
+E 08/23/2013 19:55:06:602 000015d4           HttpServer| The file /favicon.ico was not found
+I 08/23/2013 19:55:06:607 00000f84         QtMainWindow| Page load complete.
+I 08/23/2013 19:55:07:630 000015d4           HttpServer| Process URI: '/app/Accounts'
+I 08/23/2013 19:55:07:631 000015d4                  APP| RHO serve: /app/Accounts
+I 08/23/2013 19:55:07:631 000015d4              RhoRuby| require_compiled: Accounts/accounts_controller
+I 08/23/2013 19:55:07:632 000015d4              RhoRuby| require_compiled: helpers/browser_helper
+I 08/23/2013 19:55:07:633 000015d4              RhoRuby| require_compiled: json
+I 08/23/2013 19:55:07:633 000015d4              RhoRuby| require_compiled: json/common
+I 08/23/2013 19:55:07:636 000015d4              RhoRuby| require_compiled: json/version
+I 08/23/2013 19:55:07:636 000015d4              RhoRuby| require_compiled: json/pure
+I 08/23/2013 19:55:07:637 000015d4              RhoRuby| require_compiled: json/pure/generator
+I 08/23/2013 19:55:07:641 000015d4              RhoRuby| require_compiled: ostruct
+I 08/23/2013 19:55:07:642 000015d4              RhoRuby| require_compiled: Accounts/account
+I 08/23/2013 19:55:07:642 000015d4            AsyncHttp| addCommand: POST
+I 08/23/2013 19:55:07:643 000015d4                  APP| eval_compiled_file : C:/Users/surendran/workspace/RHO/SalesApp/app/Accounts/wait.erb
+I 08/23/2013 19:55:07:646 000012a8            AsyncHttp| Starting main routine...
+I 08/23/2013 19:55:07:646 000012a8                  Net| Method: POST;Url: https://crm.zoho.com/crm/private/json/Accounts/getMyRecords?authtoken=9a31377e091161d17cab934c1f041f95&scope=crmapi
+I 08/23/2013 19:55:07:647 000015d4           HttpServer| GC Start.
+I 08/23/2013 19:55:07:650 000015d4           HttpServer| GC End.
+I 08/23/2013 19:55:07:654 00000f84         QtMainWindow| WebView: URL changed
+I 08/23/2013 19:55:09:492 000012a8                  Net| Method: POST;Url: http://127.0.0.1:50254/app/Accounts/httpget_callback
+I 08/23/2013 19:55:09:493 000015d4           HttpServer| Process URI: '/app/Accounts/httpget_callback'
+I 08/23/2013 19:55:09:494 000015d4                  APP| RHO serve: /app/Accounts/httpget_callback
+I 08/23/2013 19:55:09:495 000015d4                  APP| Params: {"rho_callback"=>"1", "status"=>"ok", "http_error"=>"200", "cookies"=>"bba2ee81f8=79497f43a3cf3a065c722cd54d06c255;Path=/;JSESSIONID=CF922F7B736EC1514BE3828B83CF7375;Path=/crm;crmcsr=19929d01-f2d4-4ed3-9b4e-2a42daf0d37a;Path=/;", "headers"=>{"cache-control"=>"no-cache", "connection"=>"keep-alive", "content-length"=>"2697", "content-type"=>"application/jsonp;charset=utf-8", "date"=>"Fri, 23 Aug 2013 14:25:01 GMT", "expires"=>"Thu, 01 Jan 1970 00:00:00 GMT", "pragma"=>"no-cache", "server"=>"ZGS", "set-cookie"=>"crmcsr=19929d01-f2d4-4ed3-9b4e-2a42daf0d37a; Path=/; Secure;JSESSIONID=CF922F7B736EC1514BE3828B83CF7375; Path=/crm;bba2ee81f8=79497f43a3cf3a065c722cd54d06c255; Path=/", "strict-transport-security"=>"max-age=432000", "x-content-type-options"=>"nosniff", "x-download-options"=>"noopen"}, "__rho_object"=>{"body"=>"0"}}
+I 08/23/2013 19:55:09:495 000015d4                  APP| Length :  {"ACCOUNTID"=>["935918000000067001"], "SMOWNERID"=>["935918000000064001"], "Account Owner"=>["surendran"], "Account Name"=>["Zillum"], "Fax"=>["99999999"], "Website"=>["www.zillum.com"], "Account Number"=>["0"], "Ownership"=>["Private"], "Industry"=>["Real estate"], "Employees"=>["200"], "Annual Revenue"=>["20000000"], "SIC Code"=>["0"], "SMCREATORID"=>["935918000000064001"], "Created By"=>["surendran"], "MODIFIEDBY"=>["935918000000064001"], "Modified By"=>["surendran"], "Created Time"=>["2013-08-23 06:56:19"], "Modified Time"=>["2013-08-23 06:56:19"], "Last Activity Time"=>["2013-08-23 06:56:19"]}
+I 08/23/2013 19:55:09:495 000015d4                  APP| Length :  {"ACCOUNTID"=>["935918000000066028"], "SMOWNERID"=>["935918000000064001"], "Account Owner"=>["surendran"], "Rating"=>["Acquired"], "Account Name"=>["Raja"], "Account Number"=>["1234566"], "Account Type"=>["Competitor"], "Ownership"=>["Private"], "Industry"=>["Data/Telecom OEM"], "Employees"=>["0"], "Annual Revenue"=>["0"], "SIC Code"=>["0"], "SMCREATORID"=>["935918000000064001"], "Created By"=>["surendran"], "MODIFIEDBY"=>["935918000000064001"], "Modified By"=>["surendran"], "Created Time"=>["2013-08-22 22:24:02"], "Modified Time"=>["2013-08-22 22:24:02"], "Last Activity Time"=>["2013-08-22 22:24:02"]}
+I 08/23/2013 19:55:09:496 000015d4                  APP| Length :  {"ACCOUNTID"=>["935918000000066005"], "SMOWNERID"=>["935918000000064001"], "Account Owner"=>["surendran"], "Account Name"=>["Surendran"], "Phone"=>["9629692904"], "Website"=>["www.surednranmca.blogspot.com"], "Account Number"=>["0"], "Employees"=>["0"], "Annual Revenue"=>["0"], "SIC Code"=>["0"], "SMCREATORID"=>["935918000000064001"], "Created By"=>["surendran"], "MODIFIEDBY"=>["935918000000064001"], "Modified By"=>["surendran"], "Created Time"=>["2013-08-22 06:22:04"], "Modified Time"=>["2013-08-22 06:22:04"], "Last Activity Time"=>["2013-08-22 06:22:04"]}
+I 08/23/2013 19:55:09:496 00000f84           MainWindow| navigate: 'http://127.0.0.1:50254/app/Accounts/show_result'
+I 08/23/2013 19:55:09:496 00000f84         QtMainWindow| WebView: loading...
+I 08/23/2013 19:55:09:496 000015d4           HttpServer| GC Start.
+I 08/23/2013 19:55:09:497 000012a8            AsyncHttp| ThreadQueue blocked for 4294967295 seconds...
+I 08/23/2013 19:55:09:498 000015d4           HttpServer| GC End.
+I 08/23/2013 19:55:09:507 000015d4           HttpServer| Process URI: '/app/Accounts/show_result'
+I 08/23/2013 19:55:09:508 000015d4                  APP| RHO serve: /app/Accounts/show_result
+I 08/23/2013 19:55:09:509 000015d4                  APP| eval_compiled_file : C:/Users/surendran/workspace/RHO/SalesApp/app/Accounts/index.erb
+I 08/23/2013 19:55:09:510 000015d4                  APP| eval_compiled_file : C:/Users/surendran/workspace/RHO/SalesApp/app/layout.erb
+I 08/23/2013 19:55:09:512 000015d4 RHO AccountsController| Layout file: C:/Users/surendran/workspace/RHO/SalesApp/app/layout.erb. Content size: 3440
+I 08/23/2013 19:55:09:513 000015d4           HttpServer| GC Start.
+I 08/23/2013 19:55:09:514 00000f84         QtMainWindow| WebView: URL changed
+I 08/23/2013 19:55:09:515 000015d4           HttpServer| GC End.
+I 08/23/2013 19:55:09:609 00000f84         QtMainWindow| Page load complete.
+I 08/23/2013 19:55:10:402 000015d4           HttpServer| Process URI: '/app/Accounts/add'
+I 08/23/2013 19:55:10:403 000015d4                  APP| RHO serve: /app/Accounts/add
+I 08/23/2013 19:55:10:403 000015d4                  APP| eval_compiled_file : C:/Users/surendran/workspace/RHO/SalesApp/app/Accounts/add.erb
+I 08/23/2013 19:55:10:405 000015d4                  APP| App error: undefined local variable or method `account' for #<AccountsController:0x50f1bf8>
+ C:/MotorolaRhoMobileSuite2.2.1.13/ruby/lib/ruby/gems/1.9.1/gems/rhodes-3.5.1.13/lib/framework/rho/render.rb:121:in `getBinding'
+C:/MotorolaRhoMobileSuite2.2.1.13/ruby/lib/ruby/gems/1.9.1/gems/rhodes-3.5.1.13/lib/framework/rhoframework.rb:59:in `eval'
+C:/MotorolaRhoMobileSuite2.2.1.13/ruby/lib/ruby/gems/1.9.1/gems/rhodes-3.5.1.13/lib/framework/rhoframework.rb:59:in `eval_compiled_file'
+C:/MotorolaRhoMobileSuite2.2.1.13/ruby/lib/ruby/gems/1.9.1/gems/rhodes-3.5.1.13/lib/framework/rho/render.rb:175:in `render'
+C:/Users/surendran/workspace/RHO/SalesApp/app/Accounts/accounts_controller.rb:92:in `add'
+C:/MotorolaRhoMobileSuite2.2.1.13/ruby/lib/ruby/gems/1.9.1/gems/rhodes-3.5.1.13/lib/framework/rho/rhocontroller.rb:104:in `serve'
+C:/MotorolaRhoMobileSuite2.2.1.13/ruby/lib/ruby/gems/1.9.1/gems/rhodes-3.5.1.13/lib/framework/rho/rhoapplication.rb:248:in `serve'
+C:/MotorolaRhoMobileSuite2.2.1.13/ruby/lib/ruby/gems/1.9.1/gems/rhodes-3.5.1.13/lib/framework/rho/rho.rb:883:in `serve'
+I 08/23/2013 19:55:10:405 000015d4           HttpServer| GC Start.
+I 08/23/2013 19:55:10:407 000015d4           HttpServer| GC End.
+I 08/23/2013 19:57:56:324 0000104c            RhodesApp| New start params: "-approot='C:/Users/surendran/workspace/RHO/SalesApp'" "-rhodespath='C:/MotorolaRhoMobileSuite2.2.1.13/ruby/lib/ruby/gems/1.9.1/gems/rhodes-3.5.1.13'"
+I 08/23/2013 19:57:56:325 0000104c      Rhodes.cpp: 468| Rhodes started
+I 08/23/2013 19:57:56:325 000012d8         AppCallbacks| Starting main routine...
+I 08/23/2013 19:57:56:325 000012d8         AppCallbacks| ThreadQueue blocked for 4294967295 seconds...
+I 08/23/2013 19:57:56:326 0000104c            RhodesApp| Trying to get free listening port.
+I 08/23/2013 19:57:56:327 0000104c            RhodesApp| Trying to bind of 0 port...
+I 08/23/2013 19:57:56:327 0000104c            RhodesApp| Got port to bind on: 50317
+I 08/23/2013 19:57:56:327 0000104c            RhodesApp| Free listening port: 50317
+I 08/23/2013 19:57:56:375 0000104c            RhodesApp| callAppActiveCallback
+I 08/23/2013 19:57:56:375 0000104c         AppCallbacks| addCommand: APP-ACTIVATED
+I 08/23/2013 19:57:56:375 000012d8         AppCallbacks| Received command APP-ACTIVATED which is greater than expected (LOCAL-SERVER-STARTED) - postpone it
+I 08/23/2013 19:57:56:375 000012d8         AppCallbacks| ThreadQueue blocked for 4294967295 seconds...
+I 08/23/2013 19:57:56:376 0000104c         AppCallbacks| addCommand: UI-CREATED
+I 08/23/2013 19:57:56:376 000012d8         AppCallbacks| Received command UI-CREATED which is greater than expected (LOCAL-SERVER-STARTED) - postpone it
+I 08/23/2013 19:57:56:377 000012d8         AppCallbacks| ThreadQueue blocked for 4294967295 seconds...
+I 08/23/2013 19:57:56:377 0000104c           MainWindow| navigate: 'about:blank'
+I 08/23/2013 19:57:56:377 0000104c         QtMainWindow| WebView: loading...
+I 08/23/2013 19:57:56:377 0000104c         QtMainWindow| WebView: URL changed
+I 08/23/2013 19:57:56:377 0000104c         QtMainWindow| Page load complete.
+I 08/23/2013 19:57:56:379 000004fc            RhodesApp| Starting RhodesApp main routine...
+I 08/23/2013 19:57:56:383 000004fc              RhoRuby| Init_RhoBlobs: C:/Users/surendran/workspace/RHO/SalesApp/rhosimulator/db/db-files
+I 08/23/2013 19:57:56:393 000004fc              RhoRuby| require_compiled: digest
+I 08/23/2013 19:57:56:394 000004fc              RhoRuby| require_compiled: digest.so
+I 08/23/2013 19:57:56:399 000004fc              RhoRuby| require_compiled: rhoframework
+I 08/23/2013 19:57:56:401 000004fc              RhoRuby| require_compiled: rational
+I 08/23/2013 19:57:56:402 000004fc              RhoRuby| require_compiled: rhom/rhom_db_adapter
+I 08/23/2013 19:57:56:407 000004fc              RhoRuby| require_compiled: rhodes
+I 08/23/2013 19:57:56:408 000004fc              RhoRuby| require_compiled: rhom/rhom_object
+I 08/23/2013 19:57:56:409 000004fc              RhoRuby| require_compiled: rhofsconnector
+I 08/23/2013 19:57:56:409 000004fc              RhoRuby| require_compiled: rho/rhofsconnector
+I 08/23/2013 19:57:56:411 000004fc              RhoRuby| require_compiled: rhom/rhom_object_factory
+I 08/23/2013 19:57:56:427 000004fc              RhoRuby| require_compiled: rhom/rhom
+I 08/23/2013 19:57:56:431 000004fc              RhoRuby| require_compiled: rhom/rhom_model
+I 08/23/2013 19:57:56:433 000004fc              RhoRuby| require_compiled: rhom
+I 08/23/2013 19:57:56:434 000004fc              RhoRuby| require_compiled: rho/rhoapplication
+I 08/23/2013 19:57:56:436 000004fc              RhoRuby| require_compiled: rholang/localization_simplified
+I 08/23/2013 19:57:56:438 000004fc              RhoRuby| require_compiled: rho/rhomsg
+I 08/23/2013 19:57:56:439 000004fc              RhoRuby| require_compiled: rho/rhotabbar
+I 08/23/2013 19:57:56:440 000004fc              RhoRuby| require_compiled: rho/rhotoolbar
+I 08/23/2013 19:57:56:441 000004fc                  APP| Current locale: ; Country code: 
+I 08/23/2013 19:57:56:441 000004fc                  APP| Locilized file: C:/MotorolaRhoMobileSuite2.2.1.13/ruby/lib/ruby/gems/1.9.1/gems/rhodes-3.5.1.13/lib/framework/rholang/lang_
+I 08/23/2013 19:57:56:441 000004fc              RhoRuby| require_compiled: C:/MotorolaRhoMobileSuite2.2.1.13/ruby/lib/ruby/gems/1.9.1/gems/rhodes-3.5.1.13/lib/framework/rholang/lang_en
+I 08/23/2013 19:57:56:442 000004fc                  APP| Locilized file: C:/Users/surendran/workspace/RHO/SalesApp/app/lang/lang_
+I 08/23/2013 19:57:56:442 000004fc                  APP| Locilized file: C:/MotorolaRhoMobileSuite2.2.1.13/ruby/lib/ruby/gems/1.9.1/gems/rhodes-3.5.1.13/lib/framework/rholang/rhoerror_
+I 08/23/2013 19:57:56:443 000004fc              RhoRuby| require_compiled: C:/MotorolaRhoMobileSuite2.2.1.13/ruby/lib/ruby/gems/1.9.1/gems/rhodes-3.5.1.13/lib/framework/rholang/rhoerror_en
+I 08/23/2013 19:57:56:443 000004fc                  APP| Locilized file: C:/MotorolaRhoMobileSuite2.2.1.13/ruby/lib/ruby/gems/1.9.1/gems/rhodes-3.5.1.13/lib/framework/rholang/rhomsg_
+I 08/23/2013 19:57:56:443 000004fc              RhoRuby| require_compiled: C:/MotorolaRhoMobileSuite2.2.1.13/ruby/lib/ruby/gems/1.9.1/gems/rhodes-3.5.1.13/lib/framework/rholang/rhomsg_en
+I 08/23/2013 19:57:56:444 000004fc              RhoRuby| require_compiled: indifferent_access
+I 08/23/2013 19:57:56:445 000004fc              RhoRuby| require_compiled: rho/rhosupport
+I 08/23/2013 19:57:56:449 000004fc              RhoRuby| require_compiled: rho/rhocontroller
+I 08/23/2013 19:57:56:451 000004fc              RhoRuby| require_compiled: rho/render
+I 08/23/2013 19:57:56:457 000004fc              RhoRuby| require_compiled: rho/rho
+I 08/23/2013 19:57:56:473 000004fc              RhoRuby| require_compiled: rho/rhoerror
+I 08/23/2013 19:57:56:475 000004fc              RhoRuby| require_compiled: rhom/rhom_source
+E 08/23/2013 19:57:56:477 000004fc              RhoRuby| require_compiled: error: can not find rhodes_translator
+I 08/23/2013 19:57:56:477 000004fc              RhoRuby| require_compiled: rho/rhoviewhelpers
+I 08/23/2013 19:57:56:479 000004fc              RhoRuby| require_compiled: rho
+I 08/23/2013 19:57:56:480 000004fc              RhoRuby| require_compiled: debugger
+I 08/23/2013 19:57:56:484 000004fc              RhoRuby| require_compiled: uri
+I 08/23/2013 19:57:56:485 000004fc              RhoRuby| require_compiled: uri/common
+I 08/23/2013 19:57:56:494 000004fc              RhoRuby| require_compiled: uri/generic
+I 08/23/2013 19:57:56:505 000004fc              RhoRuby| require_compiled: uri/ftp
+I 08/23/2013 19:57:56:508 000004fc              RhoRuby| require_compiled: uri/http
+I 08/23/2013 19:57:56:509 000004fc              RhoRuby| require_compiled: uri/https
+I 08/23/2013 19:57:56:510 000004fc              RhoRuby| require_compiled: uri/ldap
+I 08/23/2013 19:57:56:512 000004fc              RhoRuby| require_compiled: uri/ldaps
+I 08/23/2013 19:57:56:513 000004fc              RhoRuby| require_compiled: uri/mailto
+I 08/23/2013 19:57:56:517 000004fc              RhoRuby| require_compiled: timeout
+I 08/23/2013 19:57:57:573 000004fc                  APP| [Debugger] Unable to open connection to debugger: #<Errno::ECONNREFUSED: No connection could be made because the target machine actively refused it. - connect(2)>
+I 08/23/2013 19:57:57:573 000004fc                  APP| RHO loaded
+I 08/23/2013 19:57:57:573 000004fc                  APP| Calling RHO.initialize
+I 08/23/2013 19:57:57:574 000004fc              RhoRuby| require_compiled: rhoappmanifest
+I 08/23/2013 19:57:57:576 000004fc              RhoRuby| require_compiled: find
+I 08/23/2013 19:57:57:597 000004fc                  APP| model file: Accounts/accounts
+I 08/23/2013 19:57:57:598 000004fc                   DB| Open DB: C:/Users/surendran/workspace/RHO/SalesApp/rhosimulator/db/syncdbuser.sqlite
+I 08/23/2013 19:57:57:598 000004fc          GeoLocation| Creating singleton instance.
+I 08/23/2013 19:57:57:598 000004fc            RhodesApp| Starting sync engine...
+I 08/23/2013 19:57:57:598 000004fc                 Sync| sync_poll_interval: 0
+I 08/23/2013 19:57:57:598 000004fc                 Sync| syncserver: 
+I 08/23/2013 19:57:57:598 000004fc                 Sync| bulksync_state: 0
+I 08/23/2013 19:57:57:598 000004fc            RhodesApp| RhoRubyInitApp...
+I 08/23/2013 19:57:57:598 000004fc                  APP| init_app
+I 08/23/2013 19:57:57:599 000004fc              RhoRuby| require_compiled: application
+I 08/23/2013 19:57:57:599 000004fc                 Sync| Set notification. Source ID: -1;Url :http://127.0.0.1:50317/app/Settings/sync_notify; Params: 
+I 08/23/2013 19:57:57:599 000004fc           HttpServer| Start HTTP server
+I 08/23/2013 19:57:57:599 000004fc           HttpServer| Listen for connections on port 50317
+I 08/23/2013 19:57:57:599 000004fc         AppCallbacks| addCommand: LOCAL-SERVER-STARTED
+I 08/23/2013 19:57:57:599 000012d8         AppCallbacks| process command: LOCAL-SERVER-STARTED
+I 08/23/2013 19:57:57:599 000012d8  SystemImpl.cpp: 829| rho_sys_report_app_started() has no implementation on Win Mobile.
+I 08/23/2013 19:57:57:599 000012d8         AppCallbacks| process command: UI-CREATED
+I 08/23/2013 19:57:57:600 000012d8                  Net| Method: GET;Url: http://127.0.0.1:50317/system/uicreated
+I 08/23/2013 19:57:57:623 000004fc           HttpServer| Process URI: '/system/uicreated'
+I 08/23/2013 19:57:57:623 000004fc                  APP| on_ui_created.navigate to start url: '/app'
+I 08/23/2013 19:57:57:623 0000104c           MainWindow| navigate: 'http://127.0.0.1:50317/app'
+I 08/23/2013 19:57:57:624 0000104c         QtMainWindow| WebView: loading...
+I 08/23/2013 19:57:57:624 000012d8         AppCallbacks| process command: APP-ACTIVATED
+I 08/23/2013 19:57:57:624 000012d8                  Net| Method: GET;Url: http://127.0.0.1:50317/system/activateapp
+I 08/23/2013 19:57:57:624 000004fc           HttpServer| Process URI: '/system/activateapp'
+I 08/23/2013 19:57:57:625 000004fc           HttpServer| Process URI: '/app'
+I 08/23/2013 19:57:57:625 000012d8         AppCallbacks| ThreadQueue blocked for 4294967295 seconds...
+I 08/23/2013 19:57:57:636 000004fc           HttpServer| Process URI: '/app/index.erb'
+I 08/23/2013 19:57:57:637 000004fc                  APP| RHO serve_index: /app/index.erb
+I 08/23/2013 19:57:57:637 000004fc RHO Rho::RhoController| inst_render_index
+I 08/23/2013 19:57:57:637 000004fc              RhoRuby| require_compiled: erb
+I 08/23/2013 19:57:57:642 000004fc                  APP| eval_compiled_file : C:/Users/surendran/workspace/RHO/SalesApp/app/index.erb
+I 08/23/2013 19:57:57:644 000004fc RHO Rho::RhoController| index layout
+I 08/23/2013 19:57:57:644 000004fc                  APP| eval_compiled_file : C:/Users/surendran/workspace/RHO/SalesApp/app/layout.erb
+I 08/23/2013 19:57:57:645 0000104c           MainWindow| addToolbarButton: Label: '';Action: 'back'
+I 08/23/2013 19:57:57:646 000004fc           HttpServer| GC Start.
+I 08/23/2013 19:57:57:646 0000104c           MainWindow| addToolbarButton: Label: '';Action: 'separator'
+I 08/23/2013 19:57:57:646 0000104c           MainWindow| addToolbarButton: Label: '';Action: 'home'
+I 08/23/2013 19:57:57:646 0000104c           MainWindow| addToolbarButton: Label: '';Action: 'refresh'
+I 08/23/2013 19:57:57:646 0000104c           MainWindow| addToolbarButton: Label: '';Action: 'options'
+I 08/23/2013 19:57:57:647 000004fc           HttpServer| GC End.
+I 08/23/2013 19:57:57:661 0000104c         QtMainWindow| WebView: URL changed
+I 08/23/2013 19:57:57:694 000004fc           HttpServer| Process URI: '/public/jquery/jquery-1.6.4.min.js'
+I 08/23/2013 19:57:57:721 000004fc           HttpServer| Process URI: '/public/jquery/jquery.json-2.3.min.js'
+I 08/23/2013 19:57:57:723 000004fc           HttpServer| Process URI: '/public/jqmobile/jquery.mobile-1.0.1.min.css'
+I 08/23/2013 19:57:57:724 000004fc           HttpServer| Process URI: '/public/css/jqmobile-patch.css'
+I 08/23/2013 19:57:57:725 000004fc           HttpServer| Process URI: '/public/jqmobile/jquery.mobile-1.0.1.min.js'
+I 08/23/2013 19:57:57:736 000004fc           HttpServer| Process URI: '/public/js/jqmobile-patch.js'
+I 08/23/2013 19:57:57:737 000004fc           HttpServer| Process URI: '/public/css/android.css'
+I 08/23/2013 19:57:57:838 000004fc           HttpServer| Process URI: '/public/jqmobile/images/icons-18-white.png'
+I 08/23/2013 19:57:57:857 000004fc           HttpServer| Process URI: '/favicon.ico'
+E 08/23/2013 19:57:57:858 000004fc           HttpServer| The file /favicon.ico was not found
+I 08/23/2013 19:57:57:864 0000104c         QtMainWindow| Page load complete.
+I 08/23/2013 19:57:58:247 000004fc           HttpServer| Process URI: '/favicon.ico'
+E 08/23/2013 19:57:58:249 000004fc           HttpServer| The file /favicon.ico was not found
+I 08/23/2013 19:57:59:044 000004fc           HttpServer| Process URI: '/app/Accounts'
+I 08/23/2013 19:57:59:045 000004fc                  APP| RHO serve: /app/Accounts
+I 08/23/2013 19:57:59:045 000004fc              RhoRuby| require_compiled: Accounts/accounts_controller
+I 08/23/2013 19:57:59:046 000004fc              RhoRuby| require_compiled: helpers/browser_helper
+I 08/23/2013 19:57:59:046 000004fc              RhoRuby| require_compiled: json
+I 08/23/2013 19:57:59:047 000004fc              RhoRuby| require_compiled: json/common
+I 08/23/2013 19:57:59:049 000004fc              RhoRuby| require_compiled: json/version
+I 08/23/2013 19:57:59:050 000004fc              RhoRuby| require_compiled: json/pure
+I 08/23/2013 19:57:59:051 000004fc              RhoRuby| require_compiled: json/pure/generator
+I 08/23/2013 19:57:59:054 000004fc              RhoRuby| require_compiled: ostruct
+I 08/23/2013 19:57:59:056 000004fc              RhoRuby| require_compiled: Accounts/account
+I 08/23/2013 19:57:59:056 000004fc            AsyncHttp| addCommand: POST
+I 08/23/2013 19:57:59:056 000004fc                  APP| eval_compiled_file : C:/Users/surendran/workspace/RHO/SalesApp/app/Accounts/wait.erb
+I 08/23/2013 19:57:59:057 000004fc           HttpServer| GC Start.
+I 08/23/2013 19:57:59:058 000004fc           HttpServer| GC End.
+I 08/23/2013 19:57:59:059 00001554            AsyncHttp| Starting main routine...
+I 08/23/2013 19:57:59:059 00001554                  Net| Method: POST;Url: https://crm.zoho.com/crm/private/json/Accounts/getMyRecords?authtoken=9a31377e091161d17cab934c1f041f95&scope=crmapi
+I 08/23/2013 19:57:59:066 0000104c         QtMainWindow| WebView: URL changed
+I 08/23/2013 19:58:00:714 00001554                  Net| Method: POST;Url: http://127.0.0.1:50317/app/Accounts/httpget_callback
+I 08/23/2013 19:58:00:716 000004fc           HttpServer| Process URI: '/app/Accounts/httpget_callback'
+I 08/23/2013 19:58:00:716 000004fc                  APP| RHO serve: /app/Accounts/httpget_callback
+I 08/23/2013 19:58:00:717 000004fc                  APP| Params: {"rho_callback"=>"1", "status"=>"ok", "http_error"=>"200", "cookies"=>"bba2ee81f8=7e30d7dafdf13d938723e085cfd9c593;Path=/;JSESSIONID=77AB99A2BE066791C13E563B6360A309;Path=/crm;crmcsr=ae4b8a3e-c5ed-41c8-a035-1baadca34204;Path=/;", "headers"=>{"cache-control"=>"no-cache", "connection"=>"keep-alive", "content-length"=>"2697", "content-type"=>"application/jsonp;charset=utf-8", "date"=>"Fri, 23 Aug 2013 14:27:52 GMT", "expires"=>"Thu, 01 Jan 1970 00:00:00 GMT", "pragma"=>"no-cache", "server"=>"ZGS", "set-cookie"=>"crmcsr=ae4b8a3e-c5ed-41c8-a035-1baadca34204; Path=/; Secure;JSESSIONID=77AB99A2BE066791C13E563B6360A309; Path=/crm;bba2ee81f8=7e30d7dafdf13d938723e085cfd9c593; Path=/", "strict-transport-security"=>"max-age=432000", "x-content-type-options"=>"nosniff", "x-download-options"=>"noopen"}, "__rho_object"=>{"body"=>"0"}}
+I 08/23/2013 19:58:00:718 000004fc                  APP| Length :  {"ACCOUNTID"=>["935918000000067001"], "SMOWNERID"=>["935918000000064001"], "Account Owner"=>["surendran"], "Account Name"=>["Zillum"], "Fax"=>["99999999"], "Website"=>["www.zillum.com"], "Account Number"=>["0"], "Ownership"=>["Private"], "Industry"=>["Real estate"], "Employees"=>["200"], "Annual Revenue"=>["20000000"], "SIC Code"=>["0"], "SMCREATORID"=>["935918000000064001"], "Created By"=>["surendran"], "MODIFIEDBY"=>["935918000000064001"], "Modified By"=>["surendran"], "Created Time"=>["2013-08-23 06:56:19"], "Modified Time"=>["2013-08-23 06:56:19"], "Last Activity Time"=>["2013-08-23 06:56:19"]}
+I 08/23/2013 19:58:00:718 000004fc                  APP| Length :  {"ACCOUNTID"=>["935918000000066028"], "SMOWNERID"=>["935918000000064001"], "Account Owner"=>["surendran"], "Rating"=>["Acquired"], "Account Name"=>["Raja"], "Account Number"=>["1234566"], "Account Type"=>["Competitor"], "Ownership"=>["Private"], "Industry"=>["Data/Telecom OEM"], "Employees"=>["0"], "Annual Revenue"=>["0"], "SIC Code"=>["0"], "SMCREATORID"=>["935918000000064001"], "Created By"=>["surendran"], "MODIFIEDBY"=>["935918000000064001"], "Modified By"=>["surendran"], "Created Time"=>["2013-08-22 22:24:02"], "Modified Time"=>["2013-08-22 22:24:02"], "Last Activity Time"=>["2013-08-22 22:24:02"]}
+I 08/23/2013 19:58:00:718 000004fc                  APP| Length :  {"ACCOUNTID"=>["935918000000066005"], "SMOWNERID"=>["935918000000064001"], "Account Owner"=>["surendran"], "Account Name"=>["Surendran"], "Phone"=>["9629692904"], "Website"=>["www.surednranmca.blogspot.com"], "Account Number"=>["0"], "Employees"=>["0"], "Annual Revenue"=>["0"], "SIC Code"=>["0"], "SMCREATORID"=>["935918000000064001"], "Created By"=>["surendran"], "MODIFIEDBY"=>["935918000000064001"], "Modified By"=>["surendran"], "Created Time"=>["2013-08-22 06:22:04"], "Modified Time"=>["2013-08-22 06:22:04"], "Last Activity Time"=>["2013-08-22 06:22:04"]}
+I 08/23/2013 19:58:00:718 0000104c           MainWindow| navigate: 'http://127.0.0.1:50317/app/Accounts/show_result'
+I 08/23/2013 19:58:00:719 000004fc           HttpServer| GC Start.
+I 08/23/2013 19:58:00:719 00001554            AsyncHttp| ThreadQueue blocked for 4294967295 seconds...
+I 08/23/2013 19:58:00:719 0000104c         QtMainWindow| WebView: loading...
+I 08/23/2013 19:58:00:720 000004fc           HttpServer| GC End.
+I 08/23/2013 19:58:00:730 000004fc           HttpServer| Process URI: '/app/Accounts/show_result'
+I 08/23/2013 19:58:00:731 000004fc                  APP| RHO serve: /app/Accounts/show_result
+I 08/23/2013 19:58:00:731 000004fc                  APP| eval_compiled_file : C:/Users/surendran/workspace/RHO/SalesApp/app/Accounts/index.erb
+I 08/23/2013 19:58:00:733 000004fc                  APP| eval_compiled_file : C:/Users/surendran/workspace/RHO/SalesApp/app/layout.erb
+I 08/23/2013 19:58:00:735 000004fc RHO AccountsController| Layout file: C:/Users/surendran/workspace/RHO/SalesApp/app/layout.erb. Content size: 3440
+I 08/23/2013 19:58:00:736 000004fc           HttpServer| GC Start.
+I 08/23/2013 19:58:00:736 0000104c         QtMainWindow| WebView: URL changed
+I 08/23/2013 19:58:00:737 000004fc           HttpServer| GC End.
+I 08/23/2013 19:58:00:840 0000104c         QtMainWindow| Page load complete.
+I 08/23/2013 19:58:02:035 000004fc           HttpServer| Process URI: '/app/Accounts/add'
+I 08/23/2013 19:58:02:036 000004fc                  APP| RHO serve: /app/Accounts/add
+I 08/23/2013 19:58:02:036 000004fc                  APP| eval_compiled_file : C:/Users/surendran/workspace/RHO/SalesApp/app/Accounts/add.erb
+I 08/23/2013 19:58:02:038 000004fc           HttpServer| GC Start.
+I 08/23/2013 19:58:02:040 000004fc           HttpServer| GC End.
+I 08/23/2013 19:58:02:064 0000104c         QtMainWindow| WebView: URL changed
+I 08/23/2013 19:58:05:069 000004fc           HttpServer| Process URI: '/app/Accounts'
+I 08/23/2013 19:58:05:070 000004fc                  APP| RHO serve: /app/Accounts
+I 08/23/2013 19:58:05:071 000004fc                  APP| Params: {"id"=>"", "name"=>"sd", "account"=>{"brand"=>"", "price"=>"", "quantity"=>""}}
+I 08/23/2013 19:58:05:071 000004fc           HttpServer| GC Start.
+I 08/23/2013 19:58:05:073 000004fc           HttpServer| GC End.
+I 08/23/2013 19:58:05:087 0000104c         QtMainWindow| WebView: URL changed
+I 08/23/2013 19:58:24:798 000003c8            RhodesApp| New start params: "-approot='C:/Users/surendran/workspace/RHO/SalesApp'" "-rhodespath='C:/MotorolaRhoMobileSuite2.2.1.13/ruby/lib/ruby/gems/1.9.1/gems/rhodes-3.5.1.13'"
+I 08/23/2013 19:58:24:799 000003c8      Rhodes.cpp: 468| Rhodes started
+I 08/23/2013 19:58:24:799 00001694         AppCallbacks| Starting main routine...
+I 08/23/2013 19:58:24:799 00001694         AppCallbacks| ThreadQueue blocked for 4294967295 seconds...
+I 08/23/2013 19:58:24:800 000003c8            RhodesApp| Trying to get free listening port.
+I 08/23/2013 19:58:24:801 000003c8            RhodesApp| Trying to bind of 0 port...
+I 08/23/2013 19:58:24:801 000003c8            RhodesApp| Got port to bind on: 50345
+I 08/23/2013 19:58:24:801 000003c8            RhodesApp| Free listening port: 50345
+I 08/23/2013 19:58:24:841 000003c8            RhodesApp| callAppActiveCallback
+I 08/23/2013 19:58:24:841 000003c8         AppCallbacks| addCommand: APP-ACTIVATED
+I 08/23/2013 19:58:24:841 00001694         AppCallbacks| Received command APP-ACTIVATED which is greater than expected (LOCAL-SERVER-STARTED) - postpone it
+I 08/23/2013 19:58:24:841 00001694         AppCallbacks| ThreadQueue blocked for 4294967295 seconds...
+I 08/23/2013 19:58:24:842 000003c8         AppCallbacks| addCommand: UI-CREATED
+I 08/23/2013 19:58:24:842 00001694         AppCallbacks| Received command UI-CREATED which is greater than expected (LOCAL-SERVER-STARTED) - postpone it
+I 08/23/2013 19:58:24:842 00001694         AppCallbacks| ThreadQueue blocked for 4294967295 seconds...
+I 08/23/2013 19:58:24:842 000003c8           MainWindow| navigate: 'about:blank'
+I 08/23/2013 19:58:24:842 00001520            RhodesApp| Starting RhodesApp main routine...
+I 08/23/2013 19:58:24:842 000003c8         QtMainWindow| WebView: loading...
+I 08/23/2013 19:58:24:843 000003c8         QtMainWindow| WebView: URL changed
+I 08/23/2013 19:58:24:843 000003c8         QtMainWindow| Page load complete.
+I 08/23/2013 19:58:24:848 00001520              RhoRuby| Init_RhoBlobs: C:/Users/surendran/workspace/RHO/SalesApp/rhosimulator/db/db-files
+I 08/23/2013 19:58:24:850 00001520              RhoRuby| require_compiled: digest
+I 08/23/2013 19:58:24:852 00001520              RhoRuby| require_compiled: digest.so
+require_compiled: helpers/browser_helper
+llback
+rhom_model
+s
+
+
+/table>\r\n\r\n     <a name=\"ReplyThePost\"></a> \r\n     <br />\r\n     \r\n    </div>\r\n    <div id=\"content-right-three-column\">\r\n      <div class=\"separator10\"></div>\r\n        \r\n<script type=\"text/javascript\"><!--\r\ngoogle_ad_client = \"pub-2017954750576014\";\r\n/* 3CodeSections, 160x600, created 2/2/10 */\r\ngoogle_ad_slot = \"7259983764\";\r\ngoogle_ad_width = 160;\r\ngoogle_ad_height = 600;\r\n//-->\r\n</script>\r\n<script type=\"text/javascript\"\r\nsrc=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\r\n</script>\r\n      </div>\r\n    <div class=\"clear\"></div> \r\n  \r\n\r\n                    </div>\r\n          </div> \r\n        \r\n        </div> \r\n        \r\n         \r\n         <div id=\"footer\">\r\n          \r\n <div id=\"footercontent\">\r\n            <div id=\"boxone\">\r\n                <div id=\"footer-img\">\r\n                </div>\r\n                <div id=\"social\">\r\n                    CONNECT WITH US\r\n                    <br />\r\n                    <br />\r\n                    <a href=\"http://www.linkedin.com/in/jamestang1\" target=\"_blank\" title=\"James Tang LinkedIn\">\r\n                     <img id=\"ctl00_footer1_imgLinedIn\" src=\"../../images/WebImgs/linkedin.png\" alt=\"James Tang LinkedIn\" style=\"height:28px;width:30px;border-width:0px;\" /></a> \r\n                    <a href=\"http://www.facebook.com/DataWebCoder\" target=\"_blank\" title=\"DataWebCoder Facebook\">\r\n                    <img id=\"ctl00_footer1_imgFaceBook\" src=\"../../images/WebImgs/facebook.png\" style=\"height:28px;width:30px;border-width:0px;\" /></a> \r\n                    <a>\r\n                    <img id=\"ctl00_footer1_imgTwitter\" src=\"../../images/WebImgs/plus.png\" style=\"height:28px;width:30px;border-width:0px;\" /></a> <a>\r\n                    <img id=\"ctl00_footer1_imgRSS\" src=\"../../images/WebImgs/rss.png\" style=\"height:28px;width:30px;border-width:0px;\" /></a>\r\n                </div>\r\n                <div id=\"copyright\">\r\n                    <a id=\"ctl00_footer1_hyperHome\" href=\"../../Default.aspx\">HOME</a> | \r\n                    <a id=\"ctl00_footer1_hyperAbout\" href=\"../../AboutUs.aspx\">ABOUT</a> | \r\n                    <a id=\"ctl00_footer1_hyperProtfolio\" href=\"../../Portfolio.aspx\">PORTFOLIO</a> | \r\n                    <a id=\"ctl00_footer1_hyperDemos\" href=\"../../DemoWebsites.aspx\">DEMOS</a> | \r\n                    <a id=\"ctl00_footer1_hyperArticles\" href=\"../../Languages.aspx\">ARTICLES</a> | \r\n                    <a id=\"ctl00_footer1_hyperVideos\" href=\"../../Videos.aspx\">VIDEOS</a> | \r\n                    <a id=\"ctl00_footer1_hyperBooks\" href=\"../../Books.aspx\">BOOKS</a> | \r\n                    <a id=\"ctl00_footer1_hyperContact\" href=\"../../ContactUs.aspx\">CONTACT</a>\r\n                    <br />\r\n                    Copyright 2009-2011. All rights reserved</div>\r\n            </div>\r\n            <div id=\"boxtwo\">\r\n                <div id=\"websites\">\r\n                    WEBSITES WE RECOMMEND: \r\n                    <a href=\"https://www.zoho.com/\" target=\"_blank\"><img id=\"ctl00_footer1_imgZoho\" src=\"../../images/WebImgs/companyIcon-Zoho.png\" style=\"height:60px;width:120px;border-width:0px;\" /></a>\r\n                    <a href=\"http://cazoomi.com/\" target=\"_blank\"><img id=\"ctl00_footer1_imgCazoomi\" src=\"../../images/WEbImgs/Cazoomi.png\" style=\"height:26px;width:120px;border-width:0px;\" /></a>\r\n                    <a href=\"http://www.mailchimp.com/\" target=\"_blank\"><img id=\"ctl00_footer1_imgMailChimp\" src=\"../../images/WebImgs/companyIcon-mailChimp.png\" style=\"height:40px;width:120px;border-width:0px;\" /></a> \r\n                    <a href=\"http://www.constantcontact.com/\" target=\"_blank\"><img id=\"ctl00_footer1_imgCC\" src=\"../../images/WebImgs/companyIcon-constantcontact.png\" style=\"height:60px;width:120px;border-width:0px;\" /></a> \r\n                    <a href=\"https://www.aweber.com/landing.htm\" target=\"_blank\"><img id=\"ctl00_footer1_imgAweber\" src=\"../../images/WEbImgs/companyIcon-aWeber.png\" style=\"height:40px;width:120px;border-width:0px;\" /></a>\r\n                </div>\r\n            </div>\r\n        </div>\r\n         </div>\r\n     \r\n        \r\n    </div>\r\n    \r\n\r\n<script type=\"text/javascript\">\r\n//<![CDATA[\r\nvar ctl00_MainMenu1_Menu1_Data = new Object();\r\nctl00_MainMenu1_Menu1_Data.disappearAfter = 500;\r\nctl00_MainMenu1_Menu1_Data.horizontalOffset = 0;\r\nctl00_MainMenu1_Menu1_Data.verticalOffset = 0;\r\nctl00_MainMenu1_Menu1_Data.staticHoverClass = 'ctl00_MainMenu1_Menu1_8 StaticHoverStyle';\r\nctl00_MainMenu1_Menu1_Data.staticHoverHyperLinkClass = 'ctl00_MainMenu1_Menu1_7 StaticHoverStyle';\r\nSys.Application.initialize();\r\nSys.Application.add_init(function() {\r\n    $create(AjaxControlToolkit.RoundedCornersBehavior, {\"id\":\"ctl00_ContentPlaceHolder1_UserAvatar1_RoundedCornersExtender1\"}, null, null, $get(\"ctl00_ContentPlaceHolder1_UserAvatar1_panelUserInfoLarge\"));\r\n});\r\n//]]>\r\n</script>\r\n</form>\r\n   \r\n     <!-- Below two lines are for unsubscribeMe.aspx form-->\r\n    \r\n    \r\n    \r\n    \r\n    <!--google analytic -->\r\n    <script type=\"text/javascript\">\r\nvar gaJsHost = ((\"https:\" == document.location.protocol) ? \"https://ssl.\" : \"http://www.\");\r\ndocument.write(unescape(\"%3Cscript src='\" + gaJsHost + \"google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E\"));\r\n</script>\r\n<script type=\"text/javascript\">\r\ntry {\r\nvar pageTracker = _gat._getTracker(\"UA-12677820-1\");\r\npageTracker._trackPageview();\r\n} catch(err) {}</script>\r\n\r\n</body>\r\n</html>\r\n"}

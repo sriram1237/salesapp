@@ -1,0 +1,25 @@
+#sdk: "C:/MotorolaRhoMobileSuite2.2.1.13/ruby/lib/ruby/gems/1.9.1/gems/rhodes-3.5.1.13"
+sdkversion: "3.5.0"
+name: "SalesApp"
+version: 1.0
+vendor: "rhomobile"
+build: "debug"
+bbver: 4.6
+applog: "rholog.txt"
+iphone:
+  configuration: "Release"
+  sdk: "iphonesimulator5.0"
+  provisionprofile: 
+  codesignidentity: 
+  entitlements: 
+  BundleIdentifier: "com.rhomobile.salesapp"
+  BundleURLScheme: "salesapp"
+wp:
+  productid: "5b71faa1-eba8-0130-2754-6ca86b26d9e0"
+symbian:
+  uid: "0xe01691be"
+android:
+  version: "2.3.3"
+extensions:
+  - json
+  - another-extension

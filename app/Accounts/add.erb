@@ -1,0 +1,47 @@
+
+<div data-role="page" data-rho-wait-page="true">
+
+  <div data-role="header" data-position="inline">
+    <h1>Add Account </h1>
+    <a href="<%= url_for :action => :index %>" class="button" style="float:left;">
+      Cancel
+    </a>
+  </div>
+
+  <div data-role="content">
+      <form method="POST"action="<%= url_for :action => :create%>">
+           <input type="hidden" name="id" />
+     
+           
+               <div>
+                 <label for="account[name]" class="fieldLabel">Name</label>
+                 <input class="jq-ui-forms" type="text" id="account[name]" name="name" <%= placeholder("Name") %> />
+               </div>
+           
+               <div>
+                 <label for="account[brand]" class="fieldLabel">Brand</label>
+                 <input class="jq-ui-forms" type="text" id="account[brand]" name="account[brand]" <%= placeholder("Brand") %> />
+               </div>
+           
+               <div>
+                 <label for="account[price]" class="fieldLabel">Price</label>
+                 <input class="jq-ui-forms" type="text" id="account[price]" name="account[price]" <%= placeholder("Price") %> />
+               </div>
+           
+               <div>
+                 <label for="account[quantity]" class="fieldLabel">Quantity</label>
+                 <input class="jq-ui-forms" type="text" id="account[quantity]" name="account[quantity]" <%= placeholder("Quantity") %> />
+               </div>
+           
+     
+           <input id=submit type="submit" value="Create" onClick="call()"/>
+         </form>
+         <script>
+         
+        
+         
+         </script
+         
+  </div>
+
+</div>

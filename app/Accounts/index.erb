@@ -1,0 +1,31 @@
+<div data-role="page">
+
+	<div data-role="header" data-position="inline">
+    <h1>Accounts</h1>
+    <a href="<%= Rho::RhoConfig.start_path %>" class="ui-btn-left" data-icon="home" data-direction="reverse" <%= "data-ajax='false'" if is_bb6 %>>
+      Home
+    </a>
+    <a href="<%= url_for :action => :new %>" class="ui-btn-right" data-icon="plus">
+      New
+    </a>
+	</div>
+
+  <div data-role="content">
+      <ul>
+         <% i=0
+         
+         get_res().each do |accounts| %>
+             <li>
+               <a  href="<%=url_for :controller => :Accounts, :action => :account_view, :id=> i %>">
+                  <%=accounts.person['Account Name'][0]%>
+                </a>
+              </li>
+          
+      <% i=i+1  end %>
+      
+      
+      <li><a href="<%=url_for :controller => :Accounts, :action => :add  %>">New</a></li>
+        </ul>
+        </div>
+
+</div>
